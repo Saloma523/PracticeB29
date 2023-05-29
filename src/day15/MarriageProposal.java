@@ -1,6 +1,9 @@
-package Day15_Tasks;
+package day15;
 
 public class MarriageProposal {
+    public static void main(String[] args) {
+
+    }
     /*
     1.  Create a class named Marriage proposal and Write a program for the  marriage proposal program asking the user, "Will you marry me?"
     if the answer is yes, print "Congrats."
